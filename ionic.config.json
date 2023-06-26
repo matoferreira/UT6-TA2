@@ -1,0 +1,7 @@
+{
+  "name": "ut6-ta2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
