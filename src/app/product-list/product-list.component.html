@@ -1,0 +1,7 @@
+<ion-grid [fixed]="true">
+  <ion-row>
+    <ion-col *ngFor="let product of products">
+      <app-product [product]="product"></app-product>
+    </ion-col>
+  </ion-row>
+</ion-grid>
